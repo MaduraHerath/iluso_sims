@@ -247,6 +247,9 @@ header {
 .navbar-brand h3 {
     color:white;
     font-family: ShadedLarch;
+    font-size:45px;
+    top:0px;
+    padding:0px;
 }
 .bg-gradient {
     background-image: -moz-linear-gradient( 135deg, rgba(60, 8, 118, 0.8) 0%, rgba(250, 0, 118, 0.8) 100%);
