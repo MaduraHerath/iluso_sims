@@ -343,6 +343,9 @@ header {
     [class^="col-"]:last-child .card.features {
         margin-bottom: 0;
     }
+    .row{
+    padding-top:20px;
+    }
 }
 
 .card.features:before {
