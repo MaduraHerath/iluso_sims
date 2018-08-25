@@ -110,3 +110,17 @@ $(function() {
     }
 
 }); /* End Fn */
+
+function more() {
+    var x = document.getElementsByClassName("hideus");
+    $( ".hideus" ).show( 400 );
+    $( ".hideme" ).hide();
+    $(".showme").show()
+}
+
+function less() {
+    var x = document.getElementsByClassName("hideus");
+    $( ".hideus" ).hide( );
+    $( ".hideme" ).show();
+    $(".showme").hide()
+}

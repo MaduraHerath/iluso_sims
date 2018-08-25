@@ -695,3 +695,37 @@ header {
 b{
    color: #ce317e
 }
+
+.functional-cat{
+    color: #ce317e;
+    font-weight: bold;
+    font-size: 1rem;
+}
+td{
+    vertical-align: baseline;
+    width: 50%;
+    border: rebeccapurple;
+    padding: 1px;
+
+}
+
+.small tbody tr > td > p{
+    font-size: 0.7rem;
+}
+
+.small tbody tr > td > h6{
+    font-size: 0.8rem !important;
+    color: rebeccapurple;
+}
+
+.hide{
+    display: none;
+}
+
+.hideme{
+    text-align: center;
+}
+
+.showme{
+    text-align: center;
+}
