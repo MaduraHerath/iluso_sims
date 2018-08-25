@@ -735,6 +735,17 @@ td{
     font-family: ShadedLarch;
 }
 
+.modal-title span {
+    font-family: 'Rubik', sans-serif;
+    font-size: 12px;
+    /* font-weight: 500; */
+    line-height: 1.2;
+}
+
+.modal-title span span {
+    font-weight: 500;
+}
+
 .modal-header {
     background-color: rgb(74, 13, 143);
     background: -moz-linear-gradient(135deg, rgb(74, 13, 143) 0%, rgb(250, 42, 143) 100%);
@@ -747,4 +758,15 @@ td{
 
 a.btn:not([href]):not([tabindex]) {
     color: white;
+}
+
+.maintenance-text {
+    font-size: 0.7rem;
+    margin-bottom: 3px;
+}
+
+.maintenance-text span {
+    color: #ce317e;
+    font-weight: 500;
+    margin-bottom: 3px;
 }
