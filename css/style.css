@@ -117,6 +117,7 @@ p.lead {
 
 .text-primary {
     color: #e38cb7 !important;
+    border-bottom: 0px solid #f8e3f0 !important;
 }
 
 .sims-text{
@@ -363,6 +364,8 @@ header {
 
 .card-text {
     font-size: 14px;
+    margin-bottom: 3px !important;
+
 }
 
 .card-text < ul {
@@ -713,6 +716,10 @@ td{
     font-size: 0.7rem;
 }
 
+.small {
+    font-size: 0.7rem;
+}
+
 .small tbody tr > td > h6{
     font-size: 0.8rem !important;
     color: rebeccapurple;
@@ -728,6 +735,7 @@ td{
 
 .showme{
     text-align: center;
+
 }
 
 .modal-title {
@@ -759,6 +767,7 @@ td{
 
 a.btn:not([href]):not([tabindex]) {
     color: white;
+<<<<<<< HEAD
 }
 
 .maintenance-text {
@@ -775,4 +784,6 @@ a.btn:not([href]):not([tabindex]) {
 .back-of-maintenace {
     background-color: #fff9fb;
     padding: 10px 15px;
+=======
+>>>>>>> ee91ef4f8083475c21a310a077e7dd11f8608a52
 }
