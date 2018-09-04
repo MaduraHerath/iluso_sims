@@ -767,7 +767,7 @@ td{
 
 a.btn:not([href]):not([tabindex]) {
     color: white;
-<<<<<<< HEAD
+
 }
 
 .maintenance-text {
@@ -784,6 +784,10 @@ a.btn:not([href]):not([tabindex]) {
 .back-of-maintenace {
     background-color: #fff9fb;
     padding: 10px 15px;
-=======
->>>>>>> ee91ef4f8083475c21a310a077e7dd11f8608a52
+
+}
+
+.col-centered{
+    float: none;
+    margin: 0 auto;
 }
