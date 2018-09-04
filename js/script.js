@@ -132,3 +132,11 @@ function allfeatures(){
 
 
 }
+
+function allfeaturesplati(){
+    // var d = document.getElementById("allcontent");
+    $( ".hideme" ).show(400);
+    $( ".showme" ).hide( 200);
+
+
+}
