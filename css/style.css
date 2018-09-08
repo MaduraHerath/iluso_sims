@@ -796,3 +796,7 @@ a.btn:not([href]):not([tabindex]) {
     max-height: calc(100vh - 210px);
     overflow-y: auto;
 }
+
+.btn{
+cursor: pointer !important;
+}
